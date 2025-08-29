@@ -51,5 +51,7 @@ To provide a **comprehensive sales performance dashboard** that enables stakehol
 * Improved **profitability analysis** by tracking discounts vs. revenue contribution
 * Helped business leaders make **data-driven decisions** for expansion and promotional campaigns
 
+### 5. **Demo**
+https://github.com/Hetva/BlinkIT-Grocery-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data.png
 
 
